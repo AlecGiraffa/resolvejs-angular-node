@@ -5,8 +5,8 @@ version 0.15.1.
 
 ## Build & development
 
-Run `grunt` for building and `grunt serve` for preview.
+Run `gulp start:server` and conncect with `http://localhost:9000`.
 
 ## Testing
 
-Running `grunt test` will run the unit tests with karma.
+Running `karma start` will run the unit tests with karma.
